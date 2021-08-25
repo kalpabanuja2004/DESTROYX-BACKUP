@@ -6,7 +6,7 @@
    <br>
 </p>
 <h1>DESTROY X</h1>
-<b>DESTROY X is a telgram userbot that running in python3 + Telethon Born From Javes.</b>
+<b>DESTROY X is a telegram userbot that running in python3 + Telethon Born From Javes.</b>
 <br>
 <br>
 
@@ -83,7 +83,7 @@ python telesetup.py
     
     [-] API_HASH :   You can get this value from https://my.telegram.org
     
-[+] The Javes-2.0 User Bot will not work without setting the mandatory vars.
+[+] The DESTROYX User Bot will not work without setting the mandatory vars.
 ```
 
 

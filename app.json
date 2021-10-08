@@ -1,7 +1,7 @@
 {
   "name": "DESTROYX",
   "description": "DESTROYX is a Telegram userbot that running on Python , It help you to manage your telegram easily ",
-  "logo": "https://telegra.ph/file/9a8075c07a133f07305c6.jpg",
+  "logo": "https://telegra.ph/file/b043158c32c2ed9da0d17.png",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/CRiMiNaL786/DESTROYX-BACKUP",
-  "website": "https://t.me/DXplugins",
-  "success_url": "https://t.me/CriMiNaL786",
+  "Official Channel": "https://t.me/srilankadarkweb",
+  "Chat group": "https://t.me/kalpawickramasinghechat",
+  "Owner Profile": "https://t.me/kalpawickramasinghe",
   "stack": "container",
   "env": {
     "TELEGRAM_API_KEY": {
@@ -66,7 +66,7 @@
     },
     "PROFILE_PP": {
       "description": "Your photo link for !autopic command",
-      "value": "https://telegra.ph/file/edc2836f4353c6b01bcb4.jpg",
+      "value": "https://telegra.ph/file/b043158c32c2ed9da0d17.png",
       "required": false
      
     
